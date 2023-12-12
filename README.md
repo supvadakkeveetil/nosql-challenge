@@ -6,6 +6,8 @@ Evaluate the ratings data to provide insights to journalists and food critics to
 
 ### Part 1 and 2 
 
+Link: [(https://github.com/supvadakkeveetil/nosql-challenge/blob/main/NoSQL_setup_final.ipynb)](https://github.com/supvadakkeveetil/nosql-challenge/blob/main/NoSQL_setup_final.ipynb)
+
 ### Part 1: Database and Jupyter Notebook Set Up
 
 1. Import data from json file
@@ -22,17 +24,23 @@ Evaluate the ratings data to provide insights to journalists and food critics to
 
 ### Part 3: Exploratory Analysis
 
-1. Which establishments have a hygiene score equal to 20?
+Link:[(https://github.com/supvadakkeveetil/nosql-challenge/blob/main/NoSQL_analysis_final.ipynb)](https://github.com/supvadakkeveetil/nosql-challenge/blob/main/NoSQL_analysis_final.ipynb)
 
+1. Which establishments have a hygiene score equal to 20?
+41 establishments have a hygiene score equal to 20
 
 2. Which establishments in London have a RatingValue greater than or equal to 4?
-
-
+33 establishments in London have a Rating Value greater than or equal to 4
 
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-
+  1. Howe and Co Fish and Chips - Van 17
+  2. Atlantic Fish Bar
+  3. Plumstead Manor Nursery
+  4. Iceland
+  5. Volunteer
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+55
 
 ## References
 Data Source: UK Food Standards AgencyLinks to an external site. (2022). UK food hygiene rating data API. https://ratings.food.gov.uk/open-data/en-GBLinks to an external site.. Contains public sector information licensed under the Open Government Licence v3.0Links to an external site.
